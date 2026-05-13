@@ -97,6 +97,7 @@ Proje **Hibrit C/Python** mimarisi kullanır:
                    │ Python nesneleri
 ┌──────────────────▼──────────────────────────────┐
 │         KÖPRÜ KATMANI (Python/ctypes)           │
+│         data_structures/structures.py           │
 └──────────────────┬──────────────────────────────┘
                    │ ctypes FFI çağrıları
 ┌──────────────────▼──────────────────────────────┐
